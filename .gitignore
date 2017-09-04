@@ -1,0 +1,11 @@
+Library/ShaderCache/*
+Library/metadata/*
+Library/*
+Library/ScriptAssemblies/*
+Library
+Temp/*
+Temp
+obj/*
+obj
+*.apk
+*.csproj
