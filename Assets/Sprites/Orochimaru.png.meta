@@ -1,0 +1,4390 @@
+fileFormatVersion: 2
+guid: 490a728dc2008bd458bdc22497159168
+timeCreated: 1504996555
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Orochimaru_0
+    21300002: Orochimaru_1
+    21300004: Orochimaru_2
+    21300006: Orochimaru_3
+    21300008: Orochimaru_4
+    21300010: Orochimaru_5
+    21300012: Orochimaru_6
+    21300014: Orochimaru_7
+    21300016: Orochimaru_8
+    21300018: Orochimaru_9
+    21300020: Orochimaru_10
+    21300022: Orochimaru_11
+    21300024: Orochimaru_12
+    21300026: Orochimaru_13
+    21300028: Orochimaru_14
+    21300030: Orochimaru_15
+    21300032: Orochimaru_16
+    21300034: Orochimaru_17
+    21300036: Orochimaru_18
+    21300038: Orochimaru_19
+    21300040: Orochimaru_20
+    21300042: Orochimaru_21
+    21300044: Orochimaru_22
+    21300046: Orochimaru_23
+    21300048: Orochimaru_24
+    21300050: Orochimaru_25
+    21300052: Orochimaru_26
+    21300054: Orochimaru_27
+    21300056: Orochimaru_28
+    21300058: Orochimaru_29
+    21300060: Orochimaru_30
+    21300062: Orochimaru_31
+    21300064: Orochimaru_32
+    21300066: Orochimaru_33
+    21300068: Orochimaru_34
+    21300070: Orochimaru_35
+    21300072: Orochimaru_36
+    21300074: Orochimaru_37
+    21300076: Orochimaru_38
+    21300078: Orochimaru_39
+    21300080: Orochimaru_40
+    21300082: Orochimaru_41
+    21300084: Orochimaru_42
+    21300086: Orochimaru_43
+    21300088: Orochimaru_44
+    21300090: Orochimaru_45
+    21300092: Orochimaru_46
+    21300094: Orochimaru_47
+    21300096: Orochimaru_48
+    21300098: Orochimaru_49
+    21300100: Orochimaru_50
+    21300102: Orochimaru_51
+    21300104: Orochimaru_52
+    21300106: Orochimaru_53
+    21300108: Orochimaru_54
+    21300110: Orochimaru_55
+    21300112: Orochimaru_56
+    21300114: Orochimaru_57
+    21300116: Orochimaru_58
+    21300118: Orochimaru_59
+    21300120: Orochimaru_60
+    21300122: Orochimaru_61
+    21300124: Orochimaru_62
+    21300126: Orochimaru_63
+    21300128: Orochimaru_64
+    21300130: Orochimaru_65
+    21300132: Orochimaru_66
+    21300134: Orochimaru_67
+    21300136: Orochimaru_68
+    21300138: Orochimaru_69
+    21300140: Orochimaru_70
+    21300142: Orochimaru_71
+    21300144: Orochimaru_72
+    21300146: Orochimaru_73
+    21300148: Orochimaru_74
+    21300150: Orochimaru_75
+    21300152: Orochimaru_76
+    21300154: Orochimaru_77
+    21300156: Orochimaru_78
+    21300158: Orochimaru_79
+    21300160: Orochimaru_80
+    21300162: Orochimaru_81
+    21300164: Orochimaru_82
+    21300166: Orochimaru_83
+    21300168: Orochimaru_84
+    21300170: Orochimaru_85
+    21300172: Orochimaru_86
+    21300174: Orochimaru_87
+    21300176: Orochimaru_88
+    21300178: Orochimaru_89
+    21300180: Orochimaru_90
+    21300182: Orochimaru_91
+    21300184: Orochimaru_92
+    21300186: Orochimaru_93
+    21300188: Orochimaru_94
+    21300190: Orochimaru_95
+    21300192: Orochimaru_96
+    21300194: Orochimaru_97
+    21300196: Orochimaru_98
+    21300198: Orochimaru_99
+    21300200: Orochimaru_100
+    21300202: Orochimaru_101
+    21300204: Orochimaru_102
+    21300206: Orochimaru_103
+    21300208: Orochimaru_104
+    21300210: Orochimaru_105
+    21300212: Orochimaru_106
+    21300214: Orochimaru_107
+    21300216: Orochimaru_108
+    21300218: Orochimaru_109
+    21300220: Orochimaru_110
+    21300222: Orochimaru_111
+    21300224: Orochimaru_112
+    21300226: Orochimaru_113
+    21300228: Orochimaru_114
+    21300230: Orochimaru_115
+    21300232: Orochimaru_116
+    21300234: Orochimaru_117
+    21300236: Orochimaru_118
+    21300238: Orochimaru_119
+    21300240: Orochimaru_120
+    21300242: Orochimaru_121
+    21300244: Orochimaru_122
+    21300246: Orochimaru_123
+    21300248: Orochimaru_124
+    21300250: Orochimaru_125
+    21300252: Orochimaru_126
+    21300254: Orochimaru_127
+    21300256: Orochimaru_128
+    21300258: Orochimaru_129
+    21300260: Orochimaru_130
+    21300262: Orochimaru_131
+    21300264: Orochimaru_132
+    21300266: Orochimaru_133
+    21300268: Orochimaru_134
+    21300270: Orochimaru_135
+    21300272: Orochimaru_136
+    21300274: Orochimaru_137
+    21300276: Orochimaru_138
+    21300278: Orochimaru_139
+    21300280: Orochimaru_140
+    21300282: Orochimaru_141
+    21300284: Orochimaru_142
+    21300286: Orochimaru_143
+    21300288: Orochimaru_144
+    21300290: Orochimaru_145
+    21300292: Orochimaru_146
+    21300294: Orochimaru_147
+    21300296: Orochimaru_148
+    21300298: Orochimaru_149
+    21300300: Orochimaru_150
+    21300302: Orochimaru_151
+    21300304: Orochimaru_152
+    21300306: Orochimaru_153
+    21300308: Orochimaru_154
+    21300310: Orochimaru_155
+    21300312: Orochimaru_156
+    21300314: Orochimaru_157
+    21300316: Orochimaru_158
+    21300318: Orochimaru_159
+    21300320: Orochimaru_160
+    21300322: Orochimaru_161
+    21300324: Orochimaru_162
+    21300326: Orochimaru_163
+    21300328: Orochimaru_164
+    21300330: Orochimaru_165
+    21300332: Orochimaru_166
+    21300334: Orochimaru_167
+    21300336: Orochimaru_168
+    21300338: Orochimaru_169
+    21300340: Orochimaru_170
+    21300342: Orochimaru_171
+    21300344: Orochimaru_172
+    21300346: Orochimaru_173
+    21300348: Orochimaru_174
+    21300350: Orochimaru_175
+    21300352: Orochimaru_176
+    21300354: Orochimaru_177
+    21300356: Orochimaru_178
+    21300358: Orochimaru_179
+    21300360: Orochimaru_180
+    21300362: Orochimaru_181
+    21300364: Orochimaru_182
+    21300366: Orochimaru_183
+    21300368: Orochimaru_184
+    21300370: Orochimaru_185
+    21300372: Orochimaru_186
+    21300374: Orochimaru_187
+    21300376: Orochimaru_188
+    21300378: Orochimaru_189
+    21300380: Orochimaru_190
+    21300382: Orochimaru_191
+    21300384: Orochimaru_192
+    21300386: Orochimaru_193
+    21300388: Orochimaru_194
+    21300390: Orochimaru_195
+    21300392: Orochimaru_196
+    21300394: Orochimaru_197
+    21300396: Orochimaru_198
+    21300398: Orochimaru_199
+    21300400: Orochimaru_200
+    21300402: Orochimaru_201
+    21300404: Orochimaru_202
+    21300406: Orochimaru_203
+    21300408: Orochimaru_204
+    21300410: Orochimaru_205
+    21300412: Orochimaru_206
+    21300414: Orochimaru_207
+    21300416: Orochimaru_208
+    21300418: Orochimaru_209
+    21300420: Orochimaru_210
+    21300422: Orochimaru_211
+    21300424: Orochimaru_212
+    21300426: Orochimaru_213
+    21300428: Orochimaru_214
+    21300430: Orochimaru_215
+    21300432: Orochimaru_216
+    21300434: Orochimaru_217
+    21300436: Orochimaru_218
+    21300438: Orochimaru_219
+    21300440: Orochimaru_220
+    21300442: Orochimaru_221
+    21300444: Orochimaru_222
+    21300446: Orochimaru_223
+    21300448: Orochimaru_224
+    21300450: Orochimaru_225
+    21300452: Orochimaru_226
+    21300454: Orochimaru_227
+    21300456: Orochimaru_228
+    21300458: Orochimaru_229
+    21300460: Orochimaru_230
+    21300462: Orochimaru_231
+    21300464: Orochimaru_232
+    21300466: Orochimaru_233
+    21300468: Orochimaru_234
+    21300470: Orochimaru_235
+    21300472: Orochimaru_236
+    21300474: Orochimaru_237
+    21300476: Orochimaru_238
+    21300478: Orochimaru_239
+    21300480: Orochimaru_240
+    21300482: Orochimaru_241
+    21300484: Orochimaru_242
+    21300486: Orochimaru_243
+    21300488: Orochimaru_244
+    21300490: Orochimaru_245
+    21300492: Orochimaru_246
+    21300494: Orochimaru_247
+    21300496: Orochimaru_248
+    21300498: Orochimaru_249
+    21300500: Orochimaru_250
+    21300502: Orochimaru_251
+    21300504: Orochimaru_252
+    21300506: Orochimaru_253
+    21300508: Orochimaru_254
+    21300510: Orochimaru_255
+    21300512: Orochimaru_256
+    21300514: Orochimaru_257
+    21300516: Orochimaru_258
+    21300518: Orochimaru_259
+    21300520: Orochimaru_260
+    21300522: Orochimaru_261
+    21300524: Orochimaru_262
+    21300526: Orochimaru_263
+    21300528: Orochimaru_264
+    21300530: Orochimaru_265
+    21300532: Orochimaru_266
+    21300534: Orochimaru_267
+    21300536: Orochimaru_268
+    21300538: Orochimaru_269
+    21300540: Orochimaru_270
+    21300542: Orochimaru_271
+    21300544: Orochimaru_272
+    21300546: Orochimaru_273
+    21300548: Orochimaru_274
+    21300550: Orochimaru_275
+    21300552: Orochimaru_276
+    21300554: Orochimaru_277
+    21300556: Orochimaru_278
+    21300558: Orochimaru_279
+    21300560: Orochimaru_280
+    21300562: Orochimaru_281
+    21300564: Orochimaru_282
+    21300566: Orochimaru_283
+    21300568: Orochimaru_284
+    21300570: Orochimaru_285
+    21300572: Orochimaru_286
+    21300574: Orochimaru_287
+    21300576: Orochimaru_288
+    21300578: Orochimaru_289
+    21300580: Orochimaru_290
+    21300582: Orochimaru_291
+    21300584: Orochimaru_292
+    21300586: Orochimaru_293
+    21300588: Orochimaru_294
+    21300590: Orochimaru_295
+    21300592: Orochimaru_296
+    21300594: Orochimaru_297
+    21300596: Orochimaru_298
+    21300598: Orochimaru_299
+    21300600: Orochimaru_300
+    21300602: Orochimaru_301
+    21300604: Orochimaru_302
+    21300606: Orochimaru_303
+    21300608: Orochimaru_304
+    21300610: Orochimaru_305
+    21300612: Orochimaru_306
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Orochimaru_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1841
+        width: 30
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1841
+        width: 29
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1841
+        width: 28
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_3
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1841
+        width: 28
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1841
+        width: 43
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1841
+        width: 44
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_6
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1841
+        width: 37
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_7
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1863
+        width: 99
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_8
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1863
+        width: 42
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_9
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1839
+        width: 68
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_10
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1835
+        width: 59
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_11
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1834
+        width: 44
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_12
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1839
+        width: 88
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_13
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1839
+        width: 25
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1784
+        width: 63
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_15
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1784
+        width: 60
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_16
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1784
+        width: 50
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_17
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1784
+        width: 59
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1784
+        width: 55
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_19
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1784
+        width: 55
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_20
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1815
+        width: 28
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_21
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1813
+        width: 42
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_22
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1812
+        width: 62
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_23
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1811
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_24
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1815
+        width: 58
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_25
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1788
+        width: 48
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_26
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1788
+        width: 157
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_27
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1712
+        width: 42
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_28
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1712
+        width: 42
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1712
+        width: 44
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_30
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1712
+        width: 44
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_31
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1767
+        width: 58
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_32
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1762
+        width: 37
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_33
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1767
+        width: 52
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_34
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1767
+        width: 63
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_35
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1712
+        width: 42
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_36
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1712
+        width: 34
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_37
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1712
+        width: 31
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_38
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1743
+        width: 53
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_39
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1743
+        width: 22
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_40
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1743
+        width: 73
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_41
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1743
+        width: 23
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_42
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1739
+        width: 33
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_43
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1743
+        width: 46
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_44
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1743
+        width: 37
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_45
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1637
+        width: 42
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_46
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1637
+        width: 61
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_47
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1637
+        width: 44
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_48
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1637
+        width: 36
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_49
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1637
+        width: 57
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_50
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1637
+        width: 44
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_51
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1637
+        width: 71
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_52
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1637
+        width: 83
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_53
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1561
+        width: 83
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_54
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1561
+        width: 83
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_55
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1561
+        width: 53
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_56
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1561
+        width: 41
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_57
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1561
+        width: 29
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_58
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1561
+        width: 42
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_59
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1561
+        width: 47
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_60
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1561
+        width: 56
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_61
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1493
+        width: 85
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_62
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1493
+        width: 83
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_63
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1488
+        width: 69
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_64
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1492
+        width: 54
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_65
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1484
+        width: 69
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_66
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1488
+        width: 53
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_67
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1483
+        width: 85
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_68
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1488
+        width: 53
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_69
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1397
+        width: 85
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_70
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1402
+        width: 56
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_71
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1419
+        width: 6
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_72
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1402
+        width: 10
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_73
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1398
+        width: 69
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_74
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1431
+        width: 15
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_75
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1402
+        width: 56
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_76
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1419
+        width: 6
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_77
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1402
+        width: 10
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_78
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1398
+        width: 69
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_79
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1431
+        width: 15
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_80
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1402
+        width: 54
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_81
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1401
+        width: 28
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_82
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1401
+        width: 49
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_83
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1400
+        width: 40
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_84
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1431
+        width: 9
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_85
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1402
+        width: 54
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_86
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1421
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_87
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1312
+        width: 28
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_88
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1312
+        width: 49
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_89
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1342
+        width: 9
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_90
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1313
+        width: 53
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_91
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1319
+        width: 21
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_92
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1351
+        width: 59
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_93
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1336
+        width: 9
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_94
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1313
+        width: 53
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_95
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1317
+        width: 21
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_96
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1349
+        width: 59
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_97
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1334
+        width: 9
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_98
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1311
+        width: 47
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_99
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1311
+        width: 47
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_100
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1311
+        width: 42
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_101
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1311
+        width: 40
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_102
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1332
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_103
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1332
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_104
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1330
+        width: 15
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_105
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1311
+        width: 38
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_106
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1330
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_107
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1328
+        width: 15
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_108
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1309
+        width: 38
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_109
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1225
+        width: 39
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_110
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1225
+        width: 38
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_111
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1225
+        width: 38
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_112
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1225
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_113
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1225
+        width: 41
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_114
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1225
+        width: 35
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_115
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1225
+        width: 29
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_116
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1223
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_117
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1223
+        width: 36
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_118
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1225
+        width: 33
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_119
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1223
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_120
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1223
+        width: 36
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_121
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1225
+        width: 33
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_122
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1221
+        width: 70
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_123
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1225
+        width: 33
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_124
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1124
+        width: 70
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_125
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1128
+        width: 33
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_126
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1124
+        width: 79
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_127
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1128
+        width: 33
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_128
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1124
+        width: 79
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_129
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1128
+        width: 33
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_130
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1124
+        width: 125
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_131
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1124
+        width: 125
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_132
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 993
+        width: 111
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_133
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 997
+        width: 33
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_134
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 994
+        width: 111
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_135
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 998
+        width: 33
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_136
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 995
+        width: 135
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_137
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 996
+        width: 135
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_138
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 950
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_139
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 971
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_140
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 950
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_141
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 971
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_142
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 909
+        width: 33
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_143
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 885
+        width: 53
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_144
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 892
+        width: 44
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_145
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 895
+        width: 10
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_146
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 873
+        width: 48
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_147
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 909
+        width: 33
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_148
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 885
+        width: 53
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_149
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 892
+        width: 44
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_150
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 895
+        width: 10
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_151
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 873
+        width: 48
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_152
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 873
+        width: 110
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_153
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 873
+        width: 70
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_154
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 877
+        width: 33
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_155
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 873
+        width: 99
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_156
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 904
+        width: 10
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_157
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 904
+        width: 10
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_158
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 880
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_159
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 878
+        width: 7
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_160
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 880
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_161
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 878
+        width: 7
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_162
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 796
+        width: 101
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_163
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 796
+        width: 75
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_164
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 799
+        width: 31
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_165
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 798
+        width: 38
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_166
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 796
+        width: 74
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_167
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 798
+        width: 38
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_168
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 796
+        width: 78
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_169
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 692
+        width: 28
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_170
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 692
+        width: 28
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_171
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 692
+        width: 28
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_172
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 692
+        width: 28
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_173
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 692
+        width: 29
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_174
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 692
+        width: 29
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_175
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 692
+        width: 28
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_176
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 692
+        width: 28
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_177
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 692
+        width: 30
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_178
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 692
+        width: 30
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_179
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 692
+        width: 29
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_180
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 692
+        width: 29
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_181
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 692
+        width: 29
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_182
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 692
+        width: 29
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_183
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 692
+        width: 28
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_184
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 692
+        width: 28
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_185
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 556
+        width: 28
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_186
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 556
+        width: 30
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_187
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 556
+        width: 30
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_188
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 623
+        width: 43
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_189
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 623
+        width: 8
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_190
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 623
+        width: 43
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_191
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 556
+        width: 28
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_192
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 556
+        width: 28
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_193
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 556
+        width: 29
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_194
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 584
+        width: 51
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_195
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 582
+        width: 47
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_196
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 578
+        width: 41
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_197
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 605
+        width: 61
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_198
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 605
+        width: 61
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_199
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 548
+        width: 43
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_200
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 531
+        width: 8
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_201
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 548
+        width: 43
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_202
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 465
+        width: 61
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_203
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 447
+        width: 43
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_204
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 441
+        width: 31
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_205
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 442
+        width: 41
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_206
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 441
+        width: 42
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_207
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 440
+        width: 50
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_208
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 442
+        width: 31
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_209
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 442
+        width: 41
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_210
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 442
+        width: 42
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_211
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 442
+        width: 50
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_212
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 442
+        width: 43
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_213
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 442
+        width: 8
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_214
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 359
+        width: 29
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_215
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 359
+        width: 33
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_216
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 359
+        width: 33
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_217
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 359
+        width: 33
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_218
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 359
+        width: 35
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_219
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 359
+        width: 31
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_220
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 395
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_221
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 387
+        width: 12
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_222
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 387
+        width: 5
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_223
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 395
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_224
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 395
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_225
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 395
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_226
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 395
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_227
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 395
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_228
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 395
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_229
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 395
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_230
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 395
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_231
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 395
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_232
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 395
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_233
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 395
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_234
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 395
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_235
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 387
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_236
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 387
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_237
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 387
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_238
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 387
+        width: 12
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_239
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 387
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_240
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 387
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_241
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 387
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_242
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 387
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_243
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 387
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_244
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 387
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_245
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 387
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_246
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 379
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_247
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 379
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_248
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 379
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_249
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 379
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_250
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 379
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_251
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 379
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_252
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 379
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_253
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 379
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_254
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 379
+        width: 12
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_255
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 266
+        width: 29
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_256
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 266
+        width: 48
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_257
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 291
+        width: 54
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_258
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 285
+        width: 63
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_259
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 291
+        width: 33
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_260
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 286
+        width: 13
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_261
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 291
+        width: 36
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_262
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 286
+        width: 13
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_263
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 291
+        width: 16
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_264
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 286
+        width: 31
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_265
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 270
+        width: 21
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_266
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 267
+        width: 24
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_267
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 284
+        width: 14
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_268
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 283
+        width: 14
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_269
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 283
+        width: 14
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_270
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 272
+        width: 23
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_271
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 270
+        width: 16
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_272
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 270
+        width: 14
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_273
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 272
+        width: 13
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_274
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 269
+        width: 14
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_275
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 271
+        width: 13
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_276
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 269
+        width: 14
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_277
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 271
+        width: 13
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_278
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 193
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_279
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 193
+        width: 48
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_280
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 193
+        width: 56
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_281
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 193
+        width: 63
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_282
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 222
+        width: 14
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_283
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 193
+        width: 39
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_284
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 225
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_285
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 222
+        width: 14
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_286
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 193
+        width: 41
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_287
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 226
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_288
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 222
+        width: 14
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_289
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 193
+        width: 39
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_290
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 225
+        width: 13
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_291
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 205
+        width: 16
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_292
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 208
+        width: 14
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_293
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 210
+        width: 13
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_294
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 208
+        width: 14
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_295
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 210
+        width: 13
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_296
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 208
+        width: 14
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_297
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 210
+        width: 13
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_298
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 124
+        width: 39
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_299
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 124
+        width: 44
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_300
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 124
+        width: 60
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_301
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 124
+        width: 51
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_302
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 124
+        width: 50
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_303
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 124
+        width: 67
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_304
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 124
+        width: 42
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_305
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 11
+        width: 512
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orochimaru_306
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 14
+        width: 209
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

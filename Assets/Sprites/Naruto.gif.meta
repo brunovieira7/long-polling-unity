@@ -1,0 +1,5118 @@
+fileFormatVersion: 2
+guid: 1e3e35ec87cc34646a55f5c921c16933
+timeCreated: 1504907891
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Naruto_0
+    21300002: Naruto_1
+    21300004: Naruto_2
+    21300006: Naruto_3
+    21300008: Naruto_4
+    21300010: Naruto_5
+    21300012: Naruto_6
+    21300014: Naruto_7
+    21300016: Naruto_8
+    21300018: Naruto_9
+    21300020: Naruto_10
+    21300022: Naruto_11
+    21300024: Naruto_12
+    21300026: Naruto_13
+    21300028: Naruto_14
+    21300030: Naruto_15
+    21300032: Naruto_16
+    21300034: Naruto_17
+    21300036: Naruto_18
+    21300038: Naruto_19
+    21300040: Naruto_20
+    21300042: Naruto_21
+    21300044: Naruto_22
+    21300046: Naruto_23
+    21300048: Naruto_24
+    21300050: Naruto_25
+    21300052: Naruto_26
+    21300054: Naruto_27
+    21300056: Naruto_28
+    21300058: Naruto_29
+    21300060: Naruto_30
+    21300062: Naruto_31
+    21300064: Naruto_32
+    21300066: Naruto_33
+    21300068: Naruto_34
+    21300070: Naruto_35
+    21300072: Naruto_36
+    21300074: Naruto_37
+    21300076: Naruto_38
+    21300078: Naruto_39
+    21300080: Naruto_40
+    21300082: Naruto_41
+    21300084: Naruto_42
+    21300086: Naruto_43
+    21300088: Naruto_44
+    21300090: Naruto_45
+    21300092: Naruto_46
+    21300094: Naruto_47
+    21300096: Naruto_48
+    21300098: Naruto_49
+    21300100: Naruto_50
+    21300102: Naruto_51
+    21300104: Naruto_52
+    21300106: Naruto_53
+    21300108: Naruto_54
+    21300110: Naruto_55
+    21300112: Naruto_56
+    21300114: Naruto_57
+    21300116: Naruto_58
+    21300118: Naruto_59
+    21300120: Naruto_60
+    21300122: Naruto_61
+    21300124: Naruto_62
+    21300126: Naruto_63
+    21300128: Naruto_64
+    21300130: Naruto_65
+    21300132: Naruto_66
+    21300134: Naruto_67
+    21300136: Naruto_68
+    21300138: Naruto_69
+    21300140: Naruto_70
+    21300142: Naruto_71
+    21300144: Naruto_72
+    21300146: Naruto_73
+    21300148: Naruto_74
+    21300150: Naruto_75
+    21300152: Naruto_76
+    21300154: Naruto_77
+    21300156: Naruto_78
+    21300158: Naruto_79
+    21300160: Naruto_80
+    21300162: Naruto_81
+    21300164: Naruto_82
+    21300166: Naruto_83
+    21300168: Naruto_84
+    21300170: Naruto_85
+    21300172: Naruto_86
+    21300174: Naruto_87
+    21300176: Naruto_88
+    21300178: Naruto_89
+    21300180: Naruto_90
+    21300182: Naruto_91
+    21300184: Naruto_92
+    21300186: Naruto_93
+    21300188: Naruto_94
+    21300190: Naruto_95
+    21300192: Naruto_96
+    21300194: Naruto_97
+    21300196: Naruto_98
+    21300198: Naruto_99
+    21300200: Naruto_100
+    21300202: Naruto_101
+    21300204: Naruto_102
+    21300206: Naruto_103
+    21300208: Naruto_104
+    21300210: Naruto_105
+    21300212: Naruto_106
+    21300214: Naruto_107
+    21300216: Naruto_108
+    21300218: Naruto_109
+    21300220: Naruto_110
+    21300222: Naruto_111
+    21300224: Naruto_112
+    21300226: Naruto_113
+    21300228: Naruto_114
+    21300230: Naruto_115
+    21300232: Naruto_116
+    21300234: Naruto_117
+    21300236: Naruto_118
+    21300238: Naruto_119
+    21300240: Naruto_120
+    21300242: Naruto_121
+    21300244: Naruto_122
+    21300246: Naruto_123
+    21300248: Naruto_124
+    21300250: Naruto_125
+    21300252: Naruto_126
+    21300254: Naruto_127
+    21300256: Naruto_128
+    21300258: Naruto_129
+    21300260: Naruto_130
+    21300262: Naruto_131
+    21300264: Naruto_132
+    21300266: Naruto_133
+    21300268: Naruto_134
+    21300270: Naruto_135
+    21300272: Naruto_136
+    21300274: Naruto_137
+    21300276: Naruto_138
+    21300278: Naruto_139
+    21300280: Naruto_140
+    21300282: Naruto_141
+    21300284: Naruto_142
+    21300286: Naruto_143
+    21300288: Naruto_144
+    21300290: Naruto_145
+    21300292: Naruto_146
+    21300294: Naruto_147
+    21300296: Naruto_148
+    21300298: Naruto_149
+    21300300: Naruto_150
+    21300302: Naruto_151
+    21300304: Naruto_152
+    21300306: Naruto_153
+    21300308: Naruto_154
+    21300310: Naruto_155
+    21300312: Naruto_156
+    21300314: Naruto_157
+    21300316: Naruto_158
+    21300318: Naruto_159
+    21300320: Naruto_160
+    21300322: Naruto_161
+    21300324: Naruto_162
+    21300326: Naruto_163
+    21300328: Naruto_164
+    21300330: Naruto_165
+    21300332: Naruto_166
+    21300334: Naruto_167
+    21300336: Naruto_168
+    21300338: Naruto_169
+    21300340: Naruto_170
+    21300342: Naruto_171
+    21300344: Naruto_172
+    21300346: Naruto_173
+    21300348: Naruto_174
+    21300350: Naruto_175
+    21300352: Naruto_176
+    21300354: Naruto_177
+    21300356: Naruto_178
+    21300358: Naruto_179
+    21300360: Naruto_180
+    21300362: Naruto_181
+    21300364: Naruto_182
+    21300366: Naruto_183
+    21300368: Naruto_184
+    21300370: Naruto_185
+    21300372: Naruto_186
+    21300374: Naruto_187
+    21300376: Naruto_188
+    21300378: Naruto_189
+    21300380: Naruto_190
+    21300382: Naruto_191
+    21300384: Naruto_192
+    21300386: Naruto_193
+    21300388: Naruto_194
+    21300390: Naruto_195
+    21300392: Naruto_196
+    21300394: Naruto_197
+    21300396: Naruto_198
+    21300398: Naruto_199
+    21300400: Naruto_200
+    21300402: Naruto_201
+    21300404: Naruto_202
+    21300406: Naruto_203
+    21300408: Naruto_204
+    21300410: Naruto_205
+    21300412: Naruto_206
+    21300414: Naruto_207
+    21300416: Naruto_208
+    21300418: Naruto_209
+    21300420: Naruto_210
+    21300422: Naruto_211
+    21300424: Naruto_212
+    21300426: Naruto_213
+    21300428: Naruto_214
+    21300430: Naruto_215
+    21300432: Naruto_216
+    21300434: Naruto_217
+    21300436: Naruto_218
+    21300438: Naruto_219
+    21300440: Naruto_220
+    21300442: Naruto_221
+    21300444: Naruto_222
+    21300446: Naruto_223
+    21300448: Naruto_224
+    21300450: Naruto_225
+    21300452: Naruto_226
+    21300454: Naruto_227
+    21300456: Naruto_228
+    21300458: Naruto_229
+    21300460: Naruto_230
+    21300462: Naruto_231
+    21300464: Naruto_232
+    21300466: Naruto_233
+    21300468: Naruto_234
+    21300470: Naruto_235
+    21300472: Naruto_236
+    21300474: Naruto_237
+    21300476: Naruto_238
+    21300478: Naruto_239
+    21300480: Naruto_240
+    21300482: Naruto_241
+    21300484: Naruto_242
+    21300486: Naruto_243
+    21300488: Naruto_244
+    21300490: Naruto_245
+    21300492: Naruto_246
+    21300494: Naruto_247
+    21300496: Naruto_248
+    21300498: Naruto_249
+    21300500: Naruto_250
+    21300502: Naruto_251
+    21300504: Naruto_252
+    21300506: Naruto_253
+    21300508: Naruto_254
+    21300510: Naruto_255
+    21300512: Naruto_256
+    21300514: Naruto_257
+    21300516: Naruto_258
+    21300518: Naruto_259
+    21300520: Naruto_260
+    21300522: Naruto_261
+    21300524: Naruto_262
+    21300526: Naruto_263
+    21300528: Naruto_264
+    21300530: Naruto_265
+    21300532: Naruto_266
+    21300534: Naruto_267
+    21300536: Naruto_268
+    21300538: Naruto_269
+    21300540: Naruto_270
+    21300542: Naruto_271
+    21300544: Naruto_272
+    21300546: Naruto_273
+    21300548: Naruto_274
+    21300550: Naruto_275
+    21300552: Naruto_276
+    21300554: Naruto_277
+    21300556: Naruto_278
+    21300558: Naruto_279
+    21300560: Naruto_280
+    21300562: Naruto_281
+    21300564: Naruto_282
+    21300566: Naruto_283
+    21300568: Naruto_284
+    21300570: Naruto_285
+    21300572: Naruto_286
+    21300574: Naruto_287
+    21300576: Naruto_288
+    21300578: Naruto_289
+    21300580: Naruto_290
+    21300582: Naruto_291
+    21300584: Naruto_292
+    21300586: Naruto_293
+    21300588: Naruto_294
+    21300590: Naruto_295
+    21300592: Naruto_296
+    21300594: Naruto_297
+    21300596: Naruto_298
+    21300598: Naruto_299
+    21300600: Naruto_300
+    21300602: Naruto_301
+    21300604: Naruto_302
+    21300606: Naruto_303
+    21300608: Naruto_304
+    21300610: Naruto_305
+    21300612: Naruto_306
+    21300614: Naruto_307
+    21300616: Naruto_308
+    21300618: Naruto_309
+    21300620: Naruto_310
+    21300622: Naruto_311
+    21300624: Naruto_312
+    21300626: Naruto_313
+    21300628: Naruto_314
+    21300630: Naruto_315
+    21300632: Naruto_316
+    21300634: Naruto_317
+    21300636: Naruto_318
+    21300638: Naruto_319
+    21300640: Naruto_320
+    21300642: Naruto_321
+    21300644: Naruto_322
+    21300646: Naruto_323
+    21300648: Naruto_324
+    21300650: Naruto_325
+    21300652: Naruto_326
+    21300654: Naruto_327
+    21300656: Naruto_328
+    21300658: Naruto_329
+    21300660: Naruto_330
+    21300662: Naruto_331
+    21300664: Naruto_332
+    21300666: Naruto_333
+    21300668: Naruto_334
+    21300670: Naruto_335
+    21300672: Naruto_336
+    21300674: Naruto_337
+    21300676: Naruto_338
+    21300678: Naruto_339
+    21300680: Naruto_340
+    21300682: Naruto_341
+    21300684: Naruto_342
+    21300686: Naruto_343
+    21300688: Naruto_344
+    21300690: Naruto_345
+    21300692: Naruto_346
+    21300694: Naruto_347
+    21300696: Naruto_348
+    21300698: Naruto_349
+    21300700: Naruto_350
+    21300702: Naruto_351
+    21300704: Naruto_352
+    21300706: Naruto_353
+    21300708: Naruto_354
+    21300710: Naruto_355
+    21300712: Naruto_356
+    21300714: Naruto_357
+    21300716: Naruto_358
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Naruto_0
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 2125
+        width: 28
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_1
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 2125
+        width: 22
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_2
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2121
+        width: 25
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2064
+        width: 37
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2064
+        width: 37
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_5
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2064
+        width: 36
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_6
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2064
+        width: 36
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_7
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 2064
+        width: 35
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_8
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 2064
+        width: 26
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_9
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2064
+        width: 27
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_10
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 2064
+        width: 27
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_11
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 2064
+        width: 24
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_12
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 2064
+        width: 25
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_13
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 2064
+        width: 36
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_14
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 2064
+        width: 34
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2044
+        width: 17
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1983
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1983
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_18
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1975
+        width: 60
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_19
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1973
+        width: 66
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_20
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1973
+        width: 69
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_21
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1975
+        width: 35
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_22
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1988
+        width: 55
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_23
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1975
+        width: 34
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_24
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1988
+        width: 51
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_25
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1973
+        width: 34
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_26
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1986
+        width: 51
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_27
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1908
+        width: 36
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_28
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1922
+        width: 59
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_29
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1908
+        width: 21
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_30
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1936
+        width: 9
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_31
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1910
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_32
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1922
+        width: 59
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1908
+        width: 21
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_34
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1936
+        width: 9
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_35
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1910
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_36
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1919
+        width: 52
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_37
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1904
+        width: 33
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_38
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1855
+        width: 52
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1855
+        width: 47
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_40
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1855
+        width: 58
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_41
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1855
+        width: 54
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_42
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1855
+        width: 52
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_43
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1855
+        width: 59
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_44
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1856
+        width: 43
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_45
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1856
+        width: 42
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_46
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1839
+        width: 23
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_47
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1776
+        width: 46
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_48
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1774
+        width: 46
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_49
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1774
+        width: 33
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_50
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1774
+        width: 32
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_51
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1774
+        width: 56
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_52
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1774
+        width: 64
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_53
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1773
+        width: 64
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_54
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1772
+        width: 64
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_55
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1772
+        width: 77
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_56
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1777
+        width: 9
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_57
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1785
+        width: 9
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_58
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1775
+        width: 37
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_59
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1775
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1758
+        width: 31
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_61
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1707
+        width: 33
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_62
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1707
+        width: 33
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_63
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1707
+        width: 35
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_64
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1707
+        width: 34
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_65
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1692
+        width: 28
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_66
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1634
+        width: 47
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_67
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1634
+        width: 42
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_68
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1634
+        width: 54
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_69
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1634
+        width: 47
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_70
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1634
+        width: 42
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_71
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1634
+        width: 41
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_72
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1634
+        width: 50
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_73
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1634
+        width: 54
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_74
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1634
+        width: 54
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_75
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1634
+        width: 47
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_76
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1578
+        width: 53
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_77
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1578
+        width: 50
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_78
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1578
+        width: 37
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_79
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1617
+        width: 23
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_80
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1617
+        width: 30
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_81
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1578
+        width: 49
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_82
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1557
+        width: 36
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_83
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1557
+        width: 38
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_84
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1557
+        width: 34
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_85
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1552
+        width: 39
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_86
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1478
+        width: 48
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_87
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1541
+        width: 22
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_88
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1541
+        width: 31
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_89
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1478
+        width: 42
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_90
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1478
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_91
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1478
+        width: 47
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_92
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1478
+        width: 48
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_93
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1477
+        width: 42
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_94
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1477
+        width: 55
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_95
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1477
+        width: 53
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_96
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1477
+        width: 50
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_97
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1460
+        width: 78
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_98
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1461
+        width: 25
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_99
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1388
+        width: 37
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_100
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1388
+        width: 42
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_101
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1388
+        width: 47
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_102
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1388
+        width: 41
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_103
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1388
+        width: 51
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_104
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1393
+        width: 65
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_105
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1415
+        width: 13
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_106
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1417
+        width: 29
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_107
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1417
+        width: 24
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_108
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1388
+        width: 48
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_109
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1388
+        width: 41
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_110
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1388
+        width: 50
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_111
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1403
+        width: 14
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_112
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1410
+        width: 15
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_113
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1393
+        width: 19
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_114
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1388
+        width: 43
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_115
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1402
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_116
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1393
+        width: 13
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_117
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1391
+        width: 9
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_118
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1389
+        width: 18
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_119
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1391
+        width: 14
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_120
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1393
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_121
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1305
+        width: 66
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_122
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1339
+        width: 14
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_123
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1305
+        width: 59
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_124
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1317
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_125
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1314
+        width: 31
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_126
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1306
+        width: 47
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_127
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1306
+        width: 43
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_128
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1306
+        width: 50
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_129
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1306
+        width: 65
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_130
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1342
+        width: 14
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_131
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1307
+        width: 60
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_132
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1336
+        width: 13
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_133
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1328
+        width: 13
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_134
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1317
+        width: 19
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_135
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1332
+        width: 13
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_136
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1329
+        width: 18
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_137
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1320
+        width: 19
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_138
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1306
+        width: 42
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_139
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1282
+        width: 41
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_140
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1282
+        width: 27
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_141
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1282
+        width: 39
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_142
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1282
+        width: 31
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_143
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1282
+        width: 47
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_144
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1223
+        width: 35
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_145
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1223
+        width: 47
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_146
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1222
+        width: 56
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_147
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1243
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_148
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1247
+        width: 23
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_149
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1244
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_150
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1240
+        width: 26
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_151
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1242
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_152
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1241
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_153
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1248
+        width: 18
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_154
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1227
+        width: 31
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_155
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1227
+        width: 41
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_156
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1227
+        width: 42
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_157
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1205
+        width: 23
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_158
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1205
+        width: 13
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_159
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1205
+        width: 26
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_160
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1128
+        width: 33
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_161
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1128
+        width: 37
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_162
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1128
+        width: 37
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_163
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1128
+        width: 42
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_164
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1128
+        width: 48
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_165
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1128
+        width: 47
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_166
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1128
+        width: 53
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_167
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1128
+        width: 65
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_168
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1149
+        width: 13
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_169
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1128
+        width: 67
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_170
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1137
+        width: 20
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_171
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1128
+        width: 47
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_172
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1128
+        width: 50
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_173
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1056
+        width: 47
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_174
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1055
+        width: 51
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_175
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1056
+        width: 47
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_176
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1056
+        width: 51
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_177
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1056
+        width: 47
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_178
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1056
+        width: 48
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_179
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1056
+        width: 50
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_180
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1100
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_181
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1056
+        width: 48
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_182
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1056
+        width: 47
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_183
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1056
+        width: 47
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_184
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1056
+        width: 50
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_185
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 990
+        width: 50
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_186
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 990
+        width: 51
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_187
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 990
+        width: 51
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_188
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 989
+        width: 54
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_189
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 990
+        width: 47
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_190
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1027
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_191
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 990
+        width: 50
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_192
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1027
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_193
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 990
+        width: 50
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_194
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1028
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_195
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 989
+        width: 50
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_196
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1030
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_197
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 990
+        width: 47
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_198
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1032
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_199
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 990
+        width: 47
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_200
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1034
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_201
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 918
+        width: 48
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_202
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 918
+        width: 50
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_203
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 918
+        width: 47
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_204
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 918
+        width: 50
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_205
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 916
+        width: 52
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_206
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 916
+        width: 47
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_207
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 916
+        width: 41
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_208
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 916
+        width: 51
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_209
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 916
+        width: 66
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_210
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 948
+        width: 13
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_211
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 916
+        width: 62
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_212
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 916
+        width: 37
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_213
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 935
+        width: 18
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_214
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 926
+        width: 19
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_215
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 893
+        width: 32
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_216
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 894
+        width: 33
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_217
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 826
+        width: 38
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_218
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 826
+        width: 38
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_219
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 831
+        width: 38
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_220
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 829
+        width: 28
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_221
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 834
+        width: 36
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_222
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 831
+        width: 32
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_223
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 829
+        width: 33
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_224
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 820
+        width: 46
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_225
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 820
+        width: 49
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_226
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 825
+        width: 44
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_227
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 823
+        width: 41
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_228
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 749
+        width: 39
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_229
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 748
+        width: 50
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_230
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 749
+        width: 49
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_231
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 748
+        width: 48
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_232
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 749
+        width: 49
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_233
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 748
+        width: 42
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_234
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 746
+        width: 33
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_235
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 746
+        width: 33
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_236
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 746
+        width: 35
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_237
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 746
+        width: 34
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_238
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 676
+        width: 35
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_239
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 676
+        width: 33
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_240
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 675
+        width: 46
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_241
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 675
+        width: 46
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_242
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 675
+        width: 43
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_243
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 675
+        width: 41
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_244
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 675
+        width: 42
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_245
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 651
+        width: 44
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_246
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 651
+        width: 14
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_247
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 651
+        width: 26
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_248
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 585
+        width: 38
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_249
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 585
+        width: 38
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_250
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 585
+        width: 37
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_251
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 585
+        width: 46
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_252
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 585
+        width: 44
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_253
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 585
+        width: 45
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_254
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 585
+        width: 44
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_255
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 585
+        width: 38
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_256
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 585
+        width: 38
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_257
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 585
+        width: 38
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_258
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 585
+        width: 37
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_259
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 585
+        width: 38
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_260
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 585
+        width: 37
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_261
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 524
+        width: 37
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_262
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 524
+        width: 38
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_263
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 524
+        width: 39
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_264
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 519
+        width: 41
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_265
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 522
+        width: 41
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_266
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 421
+        width: 242
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_267
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 422
+        width: 25
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_268
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 421
+        width: 44
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_269
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 422
+        width: 13
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_270
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 422
+        width: 27
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_271
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 363
+        width: 42
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_272
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 355
+        width: 50
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_273
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 355
+        width: 58
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_274
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 354
+        width: 70
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_275
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 392
+        width: 16
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_276
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 356
+        width: 56
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_277
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 394
+        width: 15
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_278
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 399
+        width: 18
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_279
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 355
+        width: 41
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_280
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 394
+        width: 15
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_281
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 397
+        width: 18
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_282
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 353
+        width: 41
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_283
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 392
+        width: 15
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_284
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 355
+        width: 42
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_285
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 354
+        width: 42
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_286
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 391
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_287
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 389
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_288
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 380
+        width: 15
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_289
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 376
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_290
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 379
+        width: 15
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_291
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 374
+        width: 17
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_292
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 377
+        width: 15
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_293
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 354
+        width: 15
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_294
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 329
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_295
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 336
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_296
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 340
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_297
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 281
+        width: 41
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_298
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 281
+        width: 41
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_299
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 281
+        width: 41
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_300
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 280
+        width: 42
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_301
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 280
+        width: 41
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_302
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 281
+        width: 41
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_303
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 280
+        width: 42
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_304
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 281
+        width: 41
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_305
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 330
+        width: 8
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_306
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 298
+        width: 45
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_307
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 297
+        width: 46
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_308
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 297
+        width: 45
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_309
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 299
+        width: 46
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_310
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 281
+        width: 34
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_311
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 280
+        width: 34
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_312
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 280
+        width: 34
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_313
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 282
+        width: 34
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_314
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 212
+        width: 45
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_315
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 211
+        width: 46
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_316
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 212
+        width: 45
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_317
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 229
+        width: 45
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_318
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 212
+        width: 34
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_319
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 230
+        width: 45
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_320
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 212
+        width: 46
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_321
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 209
+        width: 45
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_322
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 208
+        width: 51
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_323
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 207
+        width: 56
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_324
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 231
+        width: 45
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_325
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 213
+        width: 35
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_326
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 190
+        width: 37
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_327
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 128
+        width: 43
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_328
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 128
+        width: 38
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_329
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 128
+        width: 40
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_330
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 127
+        width: 58
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_331
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 128
+        width: 64
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_332
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 127
+        width: 64
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_333
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 125
+        width: 64
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_334
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 128
+        width: 64
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_335
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 129
+        width: 76
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_336
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 75
+        width: 76
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_337
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 79
+        width: 9
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_338
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 75
+        width: 61
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_339
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 78
+        width: 9
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_340
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 76
+        width: 61
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_341
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 77
+        width: 55
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_342
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 74
+        width: 55
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_343
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 74
+        width: 42
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_344
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 26
+        width: 76
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_345
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 44
+        width: 58
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_346
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 44
+        width: 37
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_347
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 44
+        width: 67
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_348
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 26
+        width: 181
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_349
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 44
+        width: 77
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_350
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 44
+        width: 19
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_351
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 35
+        width: 80
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_352
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 28
+        width: 48
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_353
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 28
+        width: 17
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_354
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 27
+        width: 52
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_355
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 33
+        width: 8
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_356
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 11
+        width: 31
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_357
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 11
+        width: 63
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Naruto_358
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 11
+        width: 39
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

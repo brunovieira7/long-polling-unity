@@ -8,16 +8,26 @@ using SimpleJSON;
 public class GameManager : MonoBehaviour {
 
 	private List<Player> players;
+	private List<Enemy> enemies;
+
+	private Player me;
 
 	public GameObject player;
+	public GameObject enemy;
+	public GameObject redfloor;
 
 	private bool timedOut;
 
 	private int indexMessage;
 
+	private string baseUrl;
+
 	// Use this for initialization
 	void Start () {
+		//baseUrl = "https://long-polling-dot-tpserver-dev-env.appspot.com";
+		baseUrl = "http://localhost:8080";
 		players = new List<Player> ();
+		enemies = new List<Enemy> ();
 		timedOut = true;
 		indexMessage = 0;
 
@@ -54,19 +64,13 @@ public class GameManager : MonoBehaviour {
 	     var hit = Physics2D.OverlapPoint(touchPos);
 	     
 	     if (hit) {
-			Vector2 movePos = hit.GetComponent<Arrow> ().getMovePos();
-			//Debug.Log(movePos);
-
-			foreach (Player p in players) {
-				if (p.getMe()) {
-					p.tryMoving(movePos);
-					//Vector3 ppos = p.getPosition();
-
-					///LOCAL ===============================
-					//MoveMsg mm = new MoveMsg("p1", ppos.x + movePos.x, ppos.y + movePos.y);
-					//movePlayer (mm);
-				}
+			if (hit.tag == "kunaiatk") {
+				StartCoroutine (me.kunaiAttack ());
+				return;
 			}
+
+			Vector2 movePos = hit.GetComponent<Arrow> ().getMovePos();
+			me.tryMoving(movePos);
 	     }
 	}
 
@@ -83,7 +87,7 @@ public class GameManager : MonoBehaviour {
 	IEnumerator GetPlayer() {
 		//Debug.Log("trying to get message");
 		//string text = "x:" + x + "y:" + y;
-		using (UnityWebRequest www = UnityWebRequest.Get("https://long-polling-dot-tpserver-dev-env.appspot.com/player"))
+		using (UnityWebRequest www = UnityWebRequest.Get(baseUrl + "/player"))
 		{
 			www.timeout = 10;
 			yield return www.Send();
@@ -93,12 +97,12 @@ public class GameManager : MonoBehaviour {
 			}
 			else {
 
-				Debug.Log("response ["+www.downloadHandler.text+"]");
+				Debug.Log("response GETPLAYER ["+www.downloadHandler.text+"]");
 
 				if (www.downloadHandler.text != "") {
 					JSONNode node = new JSONArray();
 					node = JSON.Parse(www.downloadHandler.text);
-					MoveMsg mm = new MoveMsg(node["player"], node["x"], node["y"]);
+					ActionMsg mm = new ActionMsg(node["player"], node["action"], node["x"], node["y"]);
 					//for (int i = 0; i < node.Count; i++) {
 					//	Debug.Log (node[i]);
 					//}
@@ -109,6 +113,7 @@ public class GameManager : MonoBehaviour {
 					scr.setPlayer (mm.player, true);
 
 					players.Add (scr);
+					me = scr;
 				}
 			}
 		}
@@ -117,7 +122,7 @@ public class GameManager : MonoBehaviour {
 	IEnumerator GetMove() {
 		//Debug.Log("trying to get message");
 		//string text = "x:" + x + "y:" + y;
-		using (UnityWebRequest www = UnityWebRequest.Get("https://long-polling-dot-tpserver-dev-env.appspot.com/move?moveIndex=" + indexMessage))
+		using (UnityWebRequest www = UnityWebRequest.Get(baseUrl + "/action?index=" + indexMessage))
 		{
 			www.timeout = 50;
 			yield return www.Send();
@@ -134,8 +139,8 @@ public class GameManager : MonoBehaviour {
 					JSONNode node = new JSONArray();
 					node = JSON.Parse(www.downloadHandler.text);
 					for (int i = 0; i < node.Count; i++) {
-						Debug.Log (node[i]["player"] +","+ node[i]["x"]+","+  node[i]["y"]);
-						MoveMsg mm = new MoveMsg(node[i]["player"], node[i]["x"], node[i]["y"]);
+						Debug.Log (node[i]["player"] +","+ node[i]["action"] +","+node[i]["x"]+","+  node[i]["y"]);
+						ActionMsg mm = new ActionMsg(node[i]["player"], node[i]["action"], node[i]["x"], node[i]["y"]);
 						movePlayer (mm);
 					}
 
@@ -148,7 +153,7 @@ public class GameManager : MonoBehaviour {
 		}
 	}
 
-	private void movePlayer(MoveMsg mm) {
+	private void movePlayer(ActionMsg mm) {
 		foreach(Player scr in players) {
 			Debug.Log("---->"+scr.getPlayer()+" == "+mm.player);
 			if (scr.getPlayer() == mm.player) {
@@ -158,28 +163,38 @@ public class GameManager : MonoBehaviour {
 		}
 
 		//cant find player, instantiate new
-		Vector3 start = new Vector3 (mm.x, mm.y, 0f);
-		GameObject instance = Instantiate (player, start, Quaternion.identity) as GameObject;
+		if (mm.player.StartsWith ("p")) {
+			Vector3 start = new Vector3 (mm.x, mm.y, 0f);
+			GameObject instance = Instantiate (player, start, Quaternion.identity) as GameObject;
 
-		Player play = instance.GetComponent<Player> ();
-		play.setPlayer (mm.player, false);
+			Player play = instance.GetComponent<Player> ();
+			play.setPlayer (mm.player, false);
 
-		players.Add (play);
-	}
+			players.Add (play);
+		} else if (mm.player.StartsWith ("x")) {
+			Vector3 start = new Vector3 (mm.x, mm.y-0.5f, 0f);
+			GameObject instance = Instantiate (redfloor, start, Quaternion.identity) as GameObject;
+			Vector3 scale = instance.transform.localScale;
+			scale.x *= 3;
+			scale.y *= 3;
+			instance.transform.localScale = scale;
 
-	[System.Serializable]
-	public class MoveMsg {
-		public string player  { get; set; }
-		public float x { get; set; }
-		public float y { get; set; }
+			StartCoroutine (enemies [0].beginCast ());
+		} else if (mm.player.StartsWith ("e")) {
+			Vector3 start = new Vector3 (mm.x, mm.y, 0f);
+			GameObject instance = Instantiate (enemy, start, Quaternion.identity) as GameObject;
 
-		public MoveMsg() { }
-
-		public MoveMsg(string player, float x, float y) {
-			this.player = player;
-			this.x = x;
-			this.y = y;
+			enemies.Add(instance.GetComponent<Enemy> ());
+		} else if (mm.player.StartsWith ("s")) {
+			foreach(Enemy scr in enemies) {
+				//Debug.Log("---->"+scr.getPlayer()+" == "+mm.player);
+				//if (scr.getPlayer() == mm.player) {
+				StartCoroutine (scr.castSpell(mm));
+					return;
+				//}
+			}
 		}
+
 
 	}
 }

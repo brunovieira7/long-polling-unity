@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "long-polling-unity", "Assembly-CSharp-firstpass.csproj", "{8679B631-20A0-5A0A-2C3D-1BC964660F58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "long-polling-unity", "Assembly-CSharp.csproj", "{CEB68548-BDFE-22AD-0A5B-AA97737372D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8679B631-20A0-5A0A-2C3D-1BC964660F58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8679B631-20A0-5A0A-2C3D-1BC964660F58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8679B631-20A0-5A0A-2C3D-1BC964660F58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8679B631-20A0-5A0A-2C3D-1BC964660F58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEB68548-BDFE-22AD-0A5B-AA97737372D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB68548-BDFE-22AD-0A5B-AA97737372D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB68548-BDFE-22AD-0A5B-AA97737372D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB68548-BDFE-22AD-0A5B-AA97737372D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
