@@ -24,8 +24,8 @@ public class GameManager : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		//baseUrl = "https://long-polling-dot-tpserver-dev-env.appspot.com";
-		baseUrl = "http://localhost:8080";
+		baseUrl = "https://long-polling-dot-tpserver-dev-env.appspot.com";
+		//baseUrl = "http://localhost:8080";
 		players = new List<Player> ();
 		enemies = new List<Enemy> ();
 		timedOut = true;
@@ -41,7 +41,7 @@ public class GameManager : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		if (timedOut) {
-			StartCoroutine (GetMove ());
+			StartCoroutine (GetActions ());
 			timedOut = false;
 		}
 
@@ -64,25 +64,49 @@ public class GameManager : MonoBehaviour {
 	     var hit = Physics2D.OverlapPoint(touchPos);
 	     
 	     if (hit) {
-			if (hit.tag == "kunaiatk") {
-				StartCoroutine (me.kunaiAttack ());
-				return;
-			}
+			if (!me.isBlocked ()) {
+				if (hit.tag == "kunaiatk") {
+					//StartCoroutine (me.kunaiAttack ());
+					SendAction ("kunai", me.transform.localScale.x, 0f);
+					return;
+				}
 
-			Vector2 movePos = hit.GetComponent<Arrow> ().getMovePos();
-			me.tryMoving(movePos);
+				Vector2 movePos = hit.GetComponent<Arrow> ().getMovePos ();
+				SendAction ("move", movePos.x, movePos.y);
+			}
 	     }
 	}
 
-/*	void localGetPlayer() {
-		Vector3 start = new Vector3 (-7f, 0f);
-		GameObject instance = Instantiate (player, start, Quaternion.identity) as GameObject;
+	IEnumerator WaitForWWW(WWW www) {
+		yield return www;
 
-		Player scr = instance.GetComponent<Player> ();
-		scr.setPlayer ("p1", true);
 
-		players.Add (scr);
-	}*/
+		string txt = "";
+		if (string.IsNullOrEmpty(www.error)) {
+			txt = www.text;  //text of success
+		}
+		else
+			txt = www.error;  //error
+
+	}
+
+	private void SendAction(string action, float x , float y) {
+		try	{
+			string ourPostData = "{\"player\":\""+ me.getName() +"\", \"action\":\""+ action + "\", \"x\": " + x + ", \"y\": " + y + " }";
+
+			Debug.Log("sending: "+ourPostData);
+
+			Dictionary<string,string> headers = new Dictionary<string, string>();
+			headers.Add("Content-Type", "application/json");
+
+			byte[] pData = System.Text.Encoding.ASCII.GetBytes(ourPostData.ToCharArray());
+
+			WWW api = new WWW(baseUrl + "/action", pData, headers);
+			StartCoroutine(WaitForWWW(api));
+		}
+		catch (UnityException ex) { Debug.Log(ex.Message);
+		}
+	}
 
 	IEnumerator GetPlayer() {
 		//Debug.Log("trying to get message");
@@ -110,7 +134,7 @@ public class GameManager : MonoBehaviour {
 					GameObject instance = Instantiate (player, start, Quaternion.identity) as GameObject;
 
 					Player scr = instance.GetComponent<Player> ();
-					scr.setPlayer (mm.player, true);
+					scr.setName (mm.player, true);
 
 					players.Add (scr);
 					me = scr;
@@ -119,7 +143,7 @@ public class GameManager : MonoBehaviour {
 		}
 	}
 
-	IEnumerator GetMove() {
+	IEnumerator GetActions() {
 		//Debug.Log("trying to get message");
 		//string text = "x:" + x + "y:" + y;
 		using (UnityWebRequest www = UnityWebRequest.Get(baseUrl + "/action?index=" + indexMessage))
@@ -127,7 +151,6 @@ public class GameManager : MonoBehaviour {
 			www.timeout = 50;
 			yield return www.Send();
 
-			timedOut = true;
 			if (www.isError) {
 				Debug.Log(www.error + " " + www.responseCode);
 			}
@@ -139,25 +162,35 @@ public class GameManager : MonoBehaviour {
 					JSONNode node = new JSONArray();
 					node = JSON.Parse(www.downloadHandler.text);
 					for (int i = 0; i < node.Count; i++) {
-						Debug.Log (node[i]["player"] +","+ node[i]["action"] +","+node[i]["x"]+","+  node[i]["y"]);
+						Debug.Log ("NEW msg: " + node[i]["player"] +","+ node[i]["action"] +","+node[i]["x"]+","+  node[i]["y"]);
 						ActionMsg mm = new ActionMsg(node[i]["player"], node[i]["action"], node[i]["x"], node[i]["y"]);
-						movePlayer (mm);
+						processAction (mm);
 					}
 
 					indexMessage += node.Count;
+
 					//indexMessage++;
-					Debug.Log("addind index "+node.Count);
+					//Debug.Log("addind index "+node.Count);
 				}
 
 			}
+
+			timedOut = true;
 		}
 	}
 
-	private void movePlayer(ActionMsg mm) {
+	private void processAction(ActionMsg mm) {
 		foreach(Player scr in players) {
-			Debug.Log("---->"+scr.getPlayer()+" == "+mm.player);
-			if (scr.getPlayer() == mm.player) {
-				scr.move (mm.x, mm.y);
+			//Debug.Log("---->"+scr.getPlayer()+" == "+mm.player);
+			if (scr.getName() == mm.player) {
+				scr.act (mm);
+				return;
+			}
+		}
+		foreach(Enemy scr in enemies) {
+			//Debug.Log("---->"+scr.getPlayer()+" == "+mm.player);
+			if (scr.getName() == mm.player) {
+				scr.act (mm);
 				return;
 			}
 		}
@@ -168,7 +201,7 @@ public class GameManager : MonoBehaviour {
 			GameObject instance = Instantiate (player, start, Quaternion.identity) as GameObject;
 
 			Player play = instance.GetComponent<Player> ();
-			play.setPlayer (mm.player, false);
+			play.setName (mm.player, false);
 
 			players.Add (play);
 		} else if (mm.player.StartsWith ("x")) {
@@ -178,11 +211,17 @@ public class GameManager : MonoBehaviour {
 			scale.x *= 3;
 			scale.y *= 3;
 			instance.transform.localScale = scale;
+			instance.GetComponent<blinkred> ().setTimeToDie (3f);
 
 			StartCoroutine (enemies [0].beginCast ());
 		} else if (mm.player.StartsWith ("e")) {
 			Vector3 start = new Vector3 (mm.x, mm.y, 0f);
 			GameObject instance = Instantiate (enemy, start, Quaternion.identity) as GameObject;
+
+			Enemy ene = instance.GetComponent<Enemy> ();
+			ene.setName (mm.player, false);
+
+			enemies.Add (ene);
 
 			enemies.Add(instance.GetComponent<Enemy> ());
 		} else if (mm.player.StartsWith ("s")) {

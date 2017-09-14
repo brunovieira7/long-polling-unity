@@ -2,13 +2,15 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Enemy : MonoBehaviour {
+public class Enemy : Mob {
 
 	public GameObject snakeSpell;
-	private Animator animator;
+	public GameObject lifeBar;
+	//private Animator animator;
 
 	void Start () {
 		animator = GetComponent<Animator>();
+		flipped = true;
 	}
 	
 	// Update is called once per frame
@@ -25,9 +27,19 @@ public class Enemy : MonoBehaviour {
 	}
 
 	public IEnumerator beginCast() {
-		Debug.Log ("why no cast");
 		animator.SetInteger ("state", 2);
-		yield return new WaitForSeconds (1.5f);
+		yield return new WaitForSeconds (1.3f);
 		animator.SetInteger ("state", 0);
+	}
+
+	public void act(ActionMsg mm) {
+		if (mm.action == "move") {
+			move (mm.x, mm.y);
+		} else if (mm.action == "hp") {
+			Vector3 scale = lifeBar.transform.localScale;
+			scale.x = mm.x;
+			lifeBar.transform.localScale = scale;
+			//StartCoroutine (kunaiAttack (mm));
+		}
 	}
 }
