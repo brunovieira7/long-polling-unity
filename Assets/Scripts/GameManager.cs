@@ -45,20 +45,20 @@ public class GameManager : MonoBehaviour {
 			timedOut = false;
 		}
 
-		if (Application.platform == RuntimePlatform.Android || Application.platform == RuntimePlatform.IPhonePlayer) {
-			if (Input.touchCount > 0) {
-				if (Input.GetTouch (0).phase == TouchPhase.Began) {
-					checkTouch (Input.GetTouch (0).position);
-				}
-			}
-		} else if (Application.platform == RuntimePlatform.WindowsEditor) {
-			if (Input.GetMouseButtonDown (0)) {
-				checkTouch (Input.mousePosition);
-			}
-		}
+//		if (Application.platform == RuntimePlatform.Android || Application.platform == RuntimePlatform.IPhonePlayer) {
+//			if (Input.touchCount > 0) {
+//				if (Input.GetTouch (0).phase == TouchPhase.Began) {
+//					checkTouch (Input.GetTouch (0).position);
+//				}
+//			}
+//		} else if (Application.platform == RuntimePlatform.WindowsEditor) {
+//			if (Input.GetMouseButtonDown (0)) {
+//				checkTouch (Input.mousePosition);
+//			}
+//		}
 	}
 
-	private void checkTouch(Vector3 pos){
+	public void checkTouch(Vector3 pos){
 		Vector3 wp = Camera.main.ScreenToWorldPoint(pos);
 		Vector2 touchPos = new Vector2(wp.x, wp.y);
 	     var hit = Physics2D.OverlapPoint(touchPos);
@@ -90,7 +90,7 @@ public class GameManager : MonoBehaviour {
 
 	}
 
-	private void SendAction(string action, float x , float y) {
+	public void SendAction(string action, float x , float y) {
 		try	{
 			string ourPostData = "{\"player\":\""+ me.getName() +"\", \"action\":\""+ action + "\", \"x\": " + x + ", \"y\": " + y + " }";
 
@@ -116,7 +116,7 @@ public class GameManager : MonoBehaviour {
 			www.timeout = 10;
 			yield return www.Send();
 
-			if (www.isError) {
+			if (www.isNetworkError) {
 				Debug.Log(www.error + " " + www.responseCode);
 			}
 			else {
@@ -151,7 +151,7 @@ public class GameManager : MonoBehaviour {
 			www.timeout = 50;
 			yield return www.Send();
 
-			if (www.isError) {
+			if (www.isNetworkError) {
 				Debug.Log(www.error + " " + www.responseCode);
 			}
 			else {
