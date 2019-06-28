@@ -31,6 +31,10 @@ public class Player : Mob {
 		return blocked;
 	}
 
+	public void blockMe() {
+		blocked = true;
+	}
+
 	public IEnumerator kunaiAttack(ActionMsg mm) {
 		blocked = true;
 		animator.SetInteger ("state", 2);

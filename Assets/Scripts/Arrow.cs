@@ -6,6 +6,7 @@ public class Arrow : MonoBehaviour {
 
 	public float x;
 	public float y;
+	public string action;
 
 	public GameManager manager;
 	
@@ -25,6 +26,6 @@ public class Arrow : MonoBehaviour {
 
 	private void OnMouseDown()
 	{
-		manager.SendAction ("move", x, y);
+		manager.SendMessage (action, x, y);
 	}
 }

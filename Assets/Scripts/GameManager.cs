@@ -5,9 +5,15 @@ using UnityEngine.Networking;
 using UnityEngine.UI;
 using SimpleJSON;
 
+using Colyseus;
+using Colyseus.Schema;
+
+using GameDevWare.Serialization;
+
 public class GameManager : MonoBehaviour {
 
 	private List<Player> players;
+	private Dictionary<string, Player> playerz = new Dictionary<string, Player>();
 	private List<Enemy> enemies;
 
 	private Player me;
@@ -21,9 +27,14 @@ public class GameManager : MonoBehaviour {
 	private int indexMessage;
 
 	private string baseUrl;
+	protected Room<State> room;
+
+	private string clientId;
 
 	// Use this for initialization
-	void Start () {
+	IEnumerator Start () {
+		
+
 		baseUrl = "https://long-polling-dot-tpserver-dev-env.appspot.com";
 		//baseUrl = "http://localhost:8080";
 		players = new List<Player> ();
@@ -31,55 +42,99 @@ public class GameManager : MonoBehaviour {
 		timedOut = true;
 		indexMessage = 0;
 
-		StartCoroutine (GetPlayer ());
+		playerz = new Dictionary<string, Player>();
+
+		room = RoomManager.room;
+		room.State.entities.OnChange += OnEntityMove;
+		room.State.entities.OnAdd += OnEntityAdd;
+		room.State.entities.OnRemove += OnEntityRemove;
+
+		clientId = RoomManager.client.Id;
+
+		room.OnStateChange += OnStateChangeHandler;
+
+		foreach (string key in room.State.entities.Items.Keys)
+		{
+			Entity ent = (Entity) room.State.entities.Items[key];
+
+			Debug.Log("has ent " + ent.type);
+			Vector3 start = new Vector3 (ent.x, ent.y, 0f);
+			GameObject instance = Instantiate (player, start, Quaternion.identity) as GameObject;
+
+			Player scr = instance.GetComponent<Player> ();
+			scr.setName (ent.type, true);
+
+			players.Add (scr);
+			playerz.Add(key, scr);
+
+			if (key == clientId) {
+				me = scr;
+			}
+		}
+
+		//StartCoroutine (GetPlayer ());
 
 		///LOCAL ===============================
 		//timedOut = false;
 		//localGetPlayer();
+
+		while (true)
+		{
+			if (RoomManager.client != null)
+			{
+				RoomManager.client.Recv();
+			}
+			yield return 0;
+		}
+
 	}
-	
+
+	void OnStateChangeHandler (object sender, StateChangeEventArgs<State> e)
+	{
+		// Setup room first state
+		Debug.Log("State has been updated!");
+	}
+
+	void OnEntityAdd(object sender, KeyValueEventArgs<Entity, string> item)
+	{
+		Debug.Log("add --- " + item.Value.x);
+	}
+
+	void OnEntityRemove(object sender, KeyValueEventArgs<Entity, string> item)
+	{
+		Debug.Log("remove --- " + item.Value.x);
+	}
+
+	public void OnEntityMove (object sender, KeyValueEventArgs<Entity, string> item)
+	{
+		Debug.Log("changed --- " + item.Key);
+		playerz[item.Key].move(item.Value.x, item.Value.y);
+	}
+
+	public void SendMessage(string action, float x , float y)
+	{
+		if (!me.isBlocked()){
+			if (room != null)
+			{
+				room.Send(new { action = action, x = x, y = y });
+			}
+			else
+			{
+				Debug.Log("Room is not connected!");
+			}
+		}
+	}
+
 	// Update is called once per frame
 	void Update () {
 		if (timedOut) {
 			StartCoroutine (GetActions ());
 			timedOut = false;
 		}
-
-//		if (Application.platform == RuntimePlatform.Android || Application.platform == RuntimePlatform.IPhonePlayer) {
-//			if (Input.touchCount > 0) {
-//				if (Input.GetTouch (0).phase == TouchPhase.Began) {
-//					checkTouch (Input.GetTouch (0).position);
-//				}
-//			}
-//		} else if (Application.platform == RuntimePlatform.WindowsEditor) {
-//			if (Input.GetMouseButtonDown (0)) {
-//				checkTouch (Input.mousePosition);
-//			}
-//		}
-	}
-
-	public void checkTouch(Vector3 pos){
-		Vector3 wp = Camera.main.ScreenToWorldPoint(pos);
-		Vector2 touchPos = new Vector2(wp.x, wp.y);
-	     var hit = Physics2D.OverlapPoint(touchPos);
-	     
-	     if (hit) {
-			if (!me.isBlocked ()) {
-				if (hit.tag == "kunaiatk") {
-					//StartCoroutine (me.kunaiAttack ());
-					SendAction ("kunai", me.transform.localScale.x, 0f);
-					return;
-				}
-
-				Vector2 movePos = hit.GetComponent<Arrow> ().getMovePos ();
-				SendAction ("move", movePos.x, movePos.y);
-			}
-	     }
 	}
 
 	IEnumerator WaitForWWW(WWW www) {
 		yield return www;
-
 
 		string txt = "";
 		if (string.IsNullOrEmpty(www.error)) {
@@ -91,6 +146,9 @@ public class GameManager : MonoBehaviour {
 	}
 
 	public void SendAction(string action, float x , float y) {
+		if (action == "kunai")
+			x = me.transform.localScale.x;
+
 		try	{
 			string ourPostData = "{\"player\":\""+ me.getName() +"\", \"action\":\""+ action + "\", \"x\": " + x + ", \"y\": " + y + " }";
 
@@ -180,6 +238,7 @@ public class GameManager : MonoBehaviour {
 	}
 
 	private void processAction(ActionMsg mm) {
+		//pegar no client o id, usar como indice do mapa de entities
 		foreach(Player scr in players) {
 			//Debug.Log("---->"+scr.getPlayer()+" == "+mm.player);
 			if (scr.getName() == mm.player) {
