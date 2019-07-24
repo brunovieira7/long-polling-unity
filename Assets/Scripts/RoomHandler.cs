@@ -15,10 +15,9 @@ public class RoomHandler : MonoBehaviour
     public Button m_ConnectButton, m_JoinButton, m_StartButton, m_DCButton, m_ShowRoomButton;
 
     public Text m_IdText;	
-    //private string endpoint = "ws://34.73.252.192:2567";
-    //private string endpoint = "ws://35.229.55.102:2567";
+    private string endpoint = "ws://34.73.252.192:2567";
 
-    private string endpoint = "ws://localhost:2567";
+    //private string endpoint = "ws://localhost:2567";
     protected Client client;
 	protected Room<State> room;
     public string roomName = "demo";
